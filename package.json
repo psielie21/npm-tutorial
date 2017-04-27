@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
-  "repository": "https://google.com"
+  },
+  "repository": "https://github.com/psielie21/npm-tutorial"
 }
